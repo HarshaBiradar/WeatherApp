@@ -12,5 +12,5 @@
 
   - HTML
   - CSS
-  - JavaScript
+  - JavaScript 
   
